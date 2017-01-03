@@ -95,7 +95,7 @@ This document represents the status of MeeMS as of the Fall of 2016, version 1.0
 | `country` | String              | Country for the meeting. |
 
 
-### Optional Fields
+## Optional Fields
 
 | **Field** | Type      | **Description**                          |
 | :--------- | :------------------ | :--------------------------------------- |
