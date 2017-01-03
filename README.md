@@ -111,7 +111,7 @@ This document represents the status of MeeMS as of the Fall of 2016, version 1.0
 | `region` 	 | String		       | is an optional string that represents a geographical subset of meeting locations. Usually this is a neighborhood or city. District numbers are discouraged because they require special program knowledge to be understood.
 
 
-MeeMS is offered by the Berkman Center for Internet & Society at Harvard Law School under the terms of the Attribution/Share Alike Creative Commons 
+MeeMS is offered under the terms of the MIT License.
 
 license
 
