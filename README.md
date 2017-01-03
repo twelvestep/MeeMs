@@ -113,6 +113,4 @@ This document represents the status of MeeMS as of the Fall of 2016, version 1.0
 
 MeeMS is offered under the terms of the MIT License.
 
-license
-
-. The authors of this document are Daniel C. and Josh R. For questions, comments, please open an issue at https://github.com/twelvestep/MeeMs/issues.
+The authors of this document are Daniel C. and Josh R. For questions, comments, please open an issue at https://github.com/twelvestep/MeeMs/issues.
