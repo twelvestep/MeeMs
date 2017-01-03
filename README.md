@@ -9,8 +9,6 @@
 - [Data Models](#dataModels)
 - [Required properties](#requiredProperties)
 - [Optional properties](#optionalProperties)
-- [Extending MeeMS](#extendingRss)
-- [Roadmap](#roadmap)
 - [License and authorship](#licenseAndAuthorship)
 
 # What is MeeMS?
