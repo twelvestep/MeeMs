@@ -100,7 +100,6 @@ This document represents the status of MeeMS as of the Fall of 2016, version 1.0
 ### Optional Fields
 
 | **Field** | Type      | **Description**                          |
-
 | :--------- | :------------------ | :--------------------------------------- |
 | `location` | String     		   | is an optional string and should be a recognizable building or landmark name.
 | `group` 	 | String		       | is an optional string.
